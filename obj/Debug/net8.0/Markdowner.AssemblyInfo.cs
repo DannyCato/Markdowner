@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Markdowner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31662ee932b23aca5570d7693950e672f8783f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Markdowner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Markdowner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
