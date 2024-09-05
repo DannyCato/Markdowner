@@ -1,0 +1,14 @@
+C:\Users\dg\SoftDev\Markdowner\Markdowner\bin\Debug\net8.0\Markdowner.exe
+C:\Users\dg\SoftDev\Markdowner\Markdowner\bin\Debug\net8.0\Markdowner.deps.json
+C:\Users\dg\SoftDev\Markdowner\Markdowner\bin\Debug\net8.0\Markdowner.runtimeconfig.json
+C:\Users\dg\SoftDev\Markdowner\Markdowner\bin\Debug\net8.0\Markdowner.dll
+C:\Users\dg\SoftDev\Markdowner\Markdowner\bin\Debug\net8.0\Markdowner.pdb
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\Markdowner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\Markdowner.AssemblyInfoInputs.cache
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\Markdowner.AssemblyInfo.cs
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\Markdowner.csproj.CoreCompileInputs.cache
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\Markdowner.dll
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\refint\Markdowner.dll
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\Markdowner.pdb
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\Markdowner.genruntimeconfig.cache
+C:\Users\dg\SoftDev\Markdowner\Markdowner\obj\Debug\net8.0\ref\Markdowner.dll
